@@ -49,7 +49,7 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "How to use",
+    title: "How To Use",
     url: "#how-to-use",
   },
   {
@@ -59,13 +59,13 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "New account",
+    title: "New Account",
     url: "#signup",
     onlyMobile: true,
   },
   {
     id: "5",
-    title: "Sign in",
+    title: "Sign In",
     url: "#login",
     onlyMobile: true,
   },
@@ -78,8 +78,8 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
+  "Photo Generating",
+  "Photo Enhance",
   "Seamless Integration",
 ];
 
@@ -94,8 +94,8 @@ export const brainwaveServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
+    title: "Voice Recognition",
+    text: "Enable The Chatbot To Understand And Respond To Voice Commands, Making It Easier For Users To Interact With The App Hands-Free.",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap1,
@@ -104,15 +104,15 @@ export const roadmap = [
   {
     id: "1",
     title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
+    text: "Add Game-Like Elements, Such As Badges Or Leaderboards, To Incentivize Users To Engage With The Chatbot More Frequently.",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
+    title: "Chatbot Customization",
+    text: "Allow Users To Customize The Chatbot's Appearance And Behavior, Making It More Engaging And Fun To Interact With.",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap3,
@@ -120,7 +120,7 @@ export const roadmap = [
   {
     id: "3",
     title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
+    text: "Allow The Chatbot To Access External Data Sources, Such As Weather APIs Or News APIs, To Provide More Relevant Recommendations.",
     date: "May 2023",
     status: "progress",
     imageUrl: roadmap4,
@@ -128,7 +128,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "With Smart Automation And Top-Notch Security, It's The Perfect Solution For Teams Looking To Work Smarter.";
 
 export const collabContent = [
   {
@@ -142,7 +142,7 @@ export const collabContent = [
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "Top-Notch Security",
   },
 ];
 
@@ -209,34 +209,34 @@ export const pricing = [
   {
     id: "0",
     title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    description: "AI Chatbot, Personalized Recommendations",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "An AI Chatbot That Can Understand Your Queries",
+      "Personalized Recommendations Based On Your Preferences",
+      "Ability To Explore The App And Its Features Without Any Cost",
     ],
   },
   {
     id: "1",
     title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
+    description: "Advanced AI Chatbot, Priority Support, Analytics Dashboard",
     price: "9.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "An Advanced AI Chatbot That Can Understand Complex Queries",
+      "An Analytics Dashboard To Track Your Conversations",
+      "Priority Support To Solve Issues Quickly",
     ],
   },
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    description: "Custom AI Chatbot, Advanced Analytics, Dedicated Account",
     price: null,
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "An AI Chatbot That Can Understand Your Queries",
+      "Personalized Recommendations Based on Your Preferences",
+      "Ability to Explore The App And Its Features Without Any Cost",
     ],
   },
 ];
@@ -262,7 +262,7 @@ export const benefits = [
   {
     id: "2",
     title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    text: "Connect with the AI Chatbot from anywhere, on any device, making it more accessible and convenient.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
